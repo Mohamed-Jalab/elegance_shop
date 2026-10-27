@@ -499,11 +499,11 @@ Potential future improvements include:
 
 ## 👨‍💻 Author
 
-**Mahmoud Bannan**
+**Mohammed Deeb Jalab**
 
 Flutter Developer & Audio AI Engineer
 
-- GitHub: [@Mahmoudmnb](https://github.com/Mahmoudmnb)
+- GitHub: [@Mohamed-Jalab](https://github.com/Mahmoudmnb)
 - Portfolio: [mahmoudbannan.com](https://mahmoudbannan.com)
 
 ---
