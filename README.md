@@ -503,8 +503,8 @@ Potential future improvements include:
 
 Flutter Developer & Audio AI Engineer
 
-- GitHub: [@Mohamed-Jalab](https://github.com/Mahmoudmnb)
-- Portfolio: [mahmoudbannan.com](https://mahmoudbannan.com)
+- GitHub: [@Mohamed-Jalab](https://github.com/Mohamed-Jalab)
+- Portfolio: [Portfolio](https://mahmoudbannan.com)
 
 ---
 
