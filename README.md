@@ -369,7 +369,7 @@ Custom fonts include:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Mahmoudmnb/flutter-ecommerce-shop.git
+git clone https://github.com/Mohamed-Jalab/elegance_shop.git
 cd flutter-ecommerce-shop
 ```
 
