@@ -40,14 +40,6 @@ The project is designed as a practical end-to-end mobile commerce experience rat
 
 ---
 
-## 🎥 Demo Video
-
-A full walkthrough of the Elegance Flutter e-commerce application is available in the project release:
-
-[▶️ Watch the Elegance App Demo](https://github.com/Mahmoudmnb/flutter-ecommerce-shop/releases/tag/demo-video)
-
----
-
 ## 🚀 Features
 
 ### Authentication
