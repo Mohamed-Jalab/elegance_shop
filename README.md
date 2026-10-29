@@ -493,7 +493,7 @@ Potential future improvements include:
 
 **Mohammed Deeb Jalab**
 
-Flutter Developer & Audio AI Engineer
+Flutter Developer
 
 - GitHub: [@Mohamed-Jalab](https://github.com/Mohamed-Jalab)
 - Portfolio: [Portfolio](https://mahmoudbannan.com)
