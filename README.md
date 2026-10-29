@@ -370,7 +370,7 @@ Custom fonts include:
 
 ```bash
 git clone https://github.com/Mohamed-Jalab/elegance_shop.git
-cd flutter-ecommerce-shop
+cd elegance_shop
 ```
 
 ### 2. Install Dependencies
